@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./src"
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "python.linting.pylintArgs":[
+        "--load-plugins=pylint_django"
+    ]
+}
